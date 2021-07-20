@@ -16,3 +16,10 @@ This is a simple visualization of affine transformations on a square, made using
 | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/40448838/126391568-cff6e06f-bce8-41f7-887b-a382ad0edd6d.gif" width="500" height="500"> | <img src="https://user-images.githubusercontent.com/40448838/126391778-9f1b69fa-2727-46ce-87bc-e6635719aa6f.gif" width="500" height="500"> |
 
+## Instructions
+
+1) Clone this repo  
+2) Create a venv and install the requirements  
+3) `python main.py`  
+
+To play with the transformations try modifying the matrix, grid_size and the side_length
