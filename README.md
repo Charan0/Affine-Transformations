@@ -24,7 +24,7 @@ This is a simple visualization of affine transformations of a square, made using
 
 | Rotation CounterClockwise | Rotation Clockwise |
 | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/40448838/126449574-bf7a51cd-32c9-4978-9431-71bea6bf8e21.gif" width="500" height="500"/> | <img src="https://user-images.githubusercontent.com/40448838/126449844-a12fcfc9-b399-42cd-a8b3-4321f7b6bc93.gif" width="500" height="500"/>
+| <img src="https://user-images.githubusercontent.com/40448838/126449574-bf7a51cd-32c9-4978-9431-71bea6bf8e21.gif" width="500" height="500"/> | <img src="https://i.imgur.com/4ql9CB3.gif" width="500" height="500"/>
 
 
 
