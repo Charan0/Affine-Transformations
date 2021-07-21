@@ -6,13 +6,33 @@ At this point, all I can say is they are simple linear transformations and I don
 
 This is a simple visualization of affine transformations on a square, made using Python, Numpy and OpenCV. 
 
-## Samples from the implementation
+## Simple affine transformations
+### Some samples from this implementation
 
 | Linear Transformation X | Linear Transformation Y |
 | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/40448838/126390193-5fc5fabc-3c7b-492d-bb81-b480897576a4.gif" width="500" height="500"> | <img src="https://user-images.githubusercontent.com/40448838/126391029-50955a00-a06c-49d1-92a7-9e8a02918e0b.gif" width="500" height="500"> |
+| <img src="https://i.imgur.com/p1mqNHZ.gif" width="500" height="500"> | <img src="https://i.imgur.com/z3lEF2O.gif" width="500" height="500"> |
 
 | Sheer along X | Sheer along Y |
 | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/40448838/126391568-cff6e06f-bce8-41f7-887b-a382ad0edd6d.gif" width="500" height="500"> | <img src="https://user-images.githubusercontent.com/40448838/126391778-9f1b69fa-2727-46ce-87bc-e6635719aa6f.gif" width="500" height="500"> |
+| <img src="https://i.imgur.com/Knrqrwv.gif" width="500" height="500"> | <img src="https://i.imgur.com/opbULWK.gif" width="500" height="500"> |
 
+
+| Offset X | Offset Y |
+| ------------- | ------------- |
+| <img src="https://i.imgur.com/ZMHONhn.gif" width="500" height="500"> | <img src="https://i.imgur.com/590qyJx.gif" width="500" height="500"/> | 
+
+| Rotation CounterClockwise | Rotation Clockwise |
+| ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/40448838/126449574-bf7a51cd-32c9-4978-9431-71bea6bf8e21.gif" width="500" height="500"/> | <img src="https://user-images.githubusercontent.com/40448838/126449844-a12fcfc9-b399-42cd-a8b3-4321f7b6bc93.gif" width="500" height="500"/>
+
+
+
+
+## Instructions
+
+1) Clone this repo  
+2) Create a venv and install the requirements  
+3) `python main.py`  
+
+To play with the transformations try modifying the matrix, grid_size and the side_length
