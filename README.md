@@ -9,7 +9,7 @@ This is a simple visualization of affine transformations of a square, made using
 ## Simple affine transformations
 ### Some samples from this implementation
 
-| Linear Transformation X | Linear Transformation Y |
+| Scaling X | Scaling Y |
 | ------------- | ------------- |
 | <img src="https://i.imgur.com/p1mqNHZ.gif" width="500" height="500"> | <img src="https://i.imgur.com/z3lEF2O.gif" width="500" height="500"> |
 
